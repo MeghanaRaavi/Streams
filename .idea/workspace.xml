@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ca58915-9841-4d3a-9720-85e2e987d559" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../M Training Tasks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodReferenceOps/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodReferenceOps/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodReferenceOps/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodReferenceOps/MethodReferenceOps.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StreamsOps.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-examples-master/spring-boot-2-rest-service-exception-handling/src/main/java/com/springboot/rest/exception/handling/invoice/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-examples-master/spring-boot-2-rest-service-exception-handling/src/main/java/com/springboot/rest/exception/handling/invoice/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-examples-master/spring-boot-2-rest-service-exception-handling/src/main/java/com/springboot/rest/exception/handling/invoice/InvoiceNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-examples-master/spring-boot-2-rest-service-exception-handling/src/main/java/com/springboot/rest/exception/handling/invoice/InvoiceRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-examples-master/spring-boot-2-rest-service-exception-handling/src/main/java/com/springboot/rest/exception/handling/invoice/InvoiceResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-examples-master/spring-boot-2-rest-service-versioning/src/main/java/com/rest/versioning/InvoiceName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-examples-master/spring-boot-rest-services-with-unit-and-integration-tests/invoices-services.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-examples-master/spring-boot-rest-services-with-unit-and-integration-tests/src/main/java/com/springboot/unit/integration/tasks/springboot/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-examples-master/spring-boot-rest-services-with-unit-and-integration-tests/src/main/java/com/springboot/unit/integration/tasks/springboot/controller/InvoiceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-examples-master/spring-boot-rest-services-with-unit-and-integration-tests/src/main/java/com/springboot/unit/integration/tasks/springboot/model/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-examples-master/spring-boot-rest-services-with-unit-and-integration-tests/src/main/java/com/springboot/unit/integration/tasks/springboot/service/InvoiceService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-examples-master/spring-boot-rest-services-with-unit-and-integration-tests/src/test/java/com/springboot/tests/springboot/ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-examples-master/spring-boot-rest-services-with-unit-and-integration-tests/src/test/java/com/springboot/tests/springboot/controller/InvoiceControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-examples-master/spring-boot-rest-services/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-examples-master/spring-boot-rest-services/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-examples-master/spring-boot-rest-services/spring-boot-rest-services-all-examples-for-springboottutorial.com.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-examples-master/spring-boot-tutorial-soap-web-services/src/main/java/soap/invoices/GetInvoiceDetailsRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-examples-master/spring-boot-tutorial-soap-web-services/src/main/java/soap/invoices/GetInvoiceDetailsResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-examples-master/spring-boot-tutorial-soap-web-services/src/main/java/soap/invoices/InvoiceDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-examples-master/spring-boot-tutorial-soap-web-services/src/main/java/soap/invoices/ObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-examples-master/spring-boot-tutorial-soap-web-services/src/main/java/soap/invoices/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-examples-master/spring-boot-tutorial-soap-web-services/src/main/java/soap/springboot/soap/web/services/example/SpringBootSoapWebApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-examples-master/spring-boot-tutorial-soap-web-services/src/main/java/soap/springboot/soap/web/services/example/WebServiceConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-examples-master/spring-boot-tutorial-soap-web-services/src/main/java/soap/springboot/soap/web/services/example/invoice/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-examples-master/spring-boot-tutorial-soap-web-services/src/main/java/soap/springboot/soap/web/services/example/invoice/InvoiceDetailsEndpoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Meghana Training Tasks/Ready/VotingMachine/VotingMachine.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Meghana Training Tasks/Ready/meghana/arrayops/.idea/arrayops.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Meghana Training Tasks/Ready/meghana/cache/.idea/cache.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Meghana Training Tasks/Ready/meghana/calulator/.idea/calulator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Meghana Training Tasks/Ready/meghana/calulator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Meghana Training Tasks/Ready/meghana/calulator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Meghana Training Tasks/Ready/meghana/calulator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Meghana Training Tasks/Ready/meghana/collections1/.idea/collections1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Meghana Training Tasks/Ready/meghana/collections1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Meghana Training Tasks/Ready/meghana/collections1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Meghana Training Tasks/Ready/meghana/collections1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Meghana Training Tasks/Ready/meghana/dies/.idea/dies.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Meghana Training Tasks/Ready/meghana/jdbc/.idea/jdbc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Meghana Training Tasks/Ready/meghana/jdbc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Meghana Training Tasks/Ready/meghana/jdbc/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Meghana Training Tasks/Ready/meghana/jdbc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Meghana Training Tasks/Ready/meghana/multithreading/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Meghana Training Tasks/Ready/meghana/multithreading/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Meghana Training Tasks/Ready/meghana/multithreading/.idea/multithreading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Meghana Training Tasks/Ready/meghana/multithreading/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Meghana Training Tasks/Ready/meghana/voting machine/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Meghana Training Tasks/Ready/meghana/voting machine/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Meghana Training Tasks/Ready/meghana/voting machine/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Meghana Training Tasks/Ready/meghana/voting machine/.idea/voting machine.iml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/training/parallel/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/training/parallel/ParallelStreamOperation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/training/Department.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/training/EmpDept.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/training/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-281">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/StreamsOps.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-10" />
+    <option name="y" value="1" />
+    <option name="width" value="1935" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="StreamsOps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StreamsOps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StreamsOps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StreamsOps" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StreamsOps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StreamsOps" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="training" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StreamsOps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StreamsOps" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="training" type="462c0819:PsiDirectoryNode" />
+              <item name="parallel" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.EmpDept">
+    <configuration name="EmpDept" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.training.EmpDept" />
+      <module name="StreamsOps" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.training.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParallelStreamOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.training.parallel.ParallelStreamOperation" />
+      <module name="StreamsOps" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.training.parallel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EmpDept" />
+        <item itemvalue="Application.ParallelStreamOperation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ca58915-9841-4d3a-9720-85e2e987d559" name="Default Changelist" comment="" />
+      <created>1566836966896</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566836966896</updated>
+      <workItem from="1566836971629" duration="1684000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1684000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="2" width="1547" height="829" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24949563" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.46915352" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="PlantUML" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/training/parallel/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/training/parallel/ParallelStreamOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/training/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-281">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/training/Department.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/training/EmpDept.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
